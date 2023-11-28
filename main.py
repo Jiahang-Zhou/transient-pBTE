@@ -15,7 +15,7 @@ from bte_train_soft import bte_train, bte_test
 from mesh_gen import OneD_mesh, OneD_test_mesh
 
 epochs = 8000
-path = "./train/"
+path = "./"
 eta = 0.6 # eta = 2*pi*MFP/L = 2*pi*Kn
 index = 4
 v,tau = 1,1
